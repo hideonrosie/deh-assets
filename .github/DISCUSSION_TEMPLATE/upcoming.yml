@@ -12,9 +12,3 @@ body:
         We would be happy if someone help us to make design(s) for these days!
     validations:
       required: true
-#  - type: textarea
-#    attributes:
-#      label: Announcement
-#      value: "We would be happy if someone help us to make design(s) for these days!"
-#    validations:
-#      required: true
