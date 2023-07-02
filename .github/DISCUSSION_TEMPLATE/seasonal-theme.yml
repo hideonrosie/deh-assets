@@ -3,12 +3,12 @@ body:
     attributes:
       label: New Seasonal Theme
       value: |
-        - We are looking some cool seasonal theme design(s) for our brand! The sesonal designs will stay untill July, 2023.
-        - 
-        - - If you have any idea,
-        - - If you are interested or have any design,
-        - please share it in this discussion!
-        - 
-        - Do not forget, we'll add your name to our contributor list if you help us to make a design!
+        We are looking some cool seasonal theme design(s) for our brand! The sesonal designs will stay untill July, 2023.
+        
+        - If you have any idea,
+        - If you are interested or have any design,
+        please share it in this discussion!
+        
+        Do not forget, we'll add your name to our contributor list if you help us to make a design!
     validations:
       required: true
