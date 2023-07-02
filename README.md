@@ -15,4 +15,5 @@
 
 ### [Themed](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Themed)
 
-- **2023 > [Discord's Birthday Themed Logo](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Themed/logo_discord_birthday.svg)** by [@Pukimaa](https://github.com/Pukimaa)
+- **2023 > [Logo: Discord's Birthday](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Themed/logo_discord_birthday.svg)** by [@Pukimaa](https://github.com/Pukimaa)
+- **2023 > Logo: Pride Month** by [@Pukimaa](https://github.com/Pukimaa) and [@Tolga1452](https://github.com/Tolga1452)
